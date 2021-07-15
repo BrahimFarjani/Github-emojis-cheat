@@ -1,4 +1,4 @@
-# GitHub Emojis List
+# Emojis List
 
 <b>People </b>
 
@@ -1524,3 +1524,5 @@ Flags
 |:england:                         |`:england:`                     |
 |:scotland:                        |`:scotland:`                    |
 |:wales:                           |`:wales:`                        |
+
+### Feel free to add more! 

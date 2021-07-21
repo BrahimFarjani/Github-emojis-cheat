@@ -570,7 +570,7 @@ Animals & Nature
 |:sparkles:                        |`:sparkles:`                    |
 |:tanabata_tree:                   |`:tanabata_tree:`               |
 |:bamboo:                          |`:bamboo:`                      |
-
+________________________________________________________________________
 
 Food & Drink
 
